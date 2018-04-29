@@ -1,0 +1,902 @@
+[
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:00.4452247Z",
+    "time_coinapi": "2018-01-01T00:00:00.5592247Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.442151460,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:00.4510611Z",
+    "time_coinapi": "2018-01-01T00:00:00.5650611Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.442151460,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:00.5472610Z",
+    "time_coinapi": "2018-01-01T00:00:00.5482610Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.442151460,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:01.4764590Z",
+    "time_coinapi": "2018-01-01T00:00:01.5904590Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.683145420,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:01.4823185Z",
+    "time_coinapi": "2018-01-01T00:00:01.5963185Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.683145420,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:01.8120370Z",
+    "time_coinapi": "2018-01-01T00:00:01.8130370Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 0.683145420,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:02.5233632Z",
+    "time_coinapi": "2018-01-01T00:00:02.6373632Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.021313730,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:02.5291905Z",
+    "time_coinapi": "2018-01-01T00:00:02.6431905Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.021313730,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:03.5232507Z",
+    "time_coinapi": "2018-01-01T00:00:03.5242507Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.021313730,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:04.5760778Z",
+    "time_coinapi": "2018-01-01T00:00:04.6900778Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.007450950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:04.5858458Z",
+    "time_coinapi": "2018-01-01T00:00:04.6998458Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.007450950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:04.6571673Z",
+    "time_coinapi": "2018-01-01T00:00:04.6581673Z",
+    "ask_price": 13880.000000000,
+    "ask_size": 1.007450950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:08.6628204Z",
+    "time_coinapi": "2018-01-01T00:00:08.7838204Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:08.6745965Z",
+    "time_coinapi": "2018-01-01T00:00:08.7935965Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:08.7600121Z",
+    "time_coinapi": "2018-01-01T00:00:08.7610121Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:11.7565691Z",
+    "time_coinapi": "2018-01-01T00:00:11.8775691Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:11.7683381Z",
+    "time_coinapi": "2018-01-01T00:00:11.8873381Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:11.8498984Z",
+    "time_coinapi": "2018-01-01T00:00:11.8498984Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:13.0000000Z",
+    "time_coinapi": "2018-01-01T00:00:15.8150701Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.095192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:14.8621802Z",
+    "time_coinapi": "2018-01-01T00:00:14.9811802Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.075192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:14.8659444Z",
+    "time_coinapi": "2018-01-01T00:00:14.9869444Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.075192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:14.9422843Z",
+    "time_coinapi": "2018-01-01T00:00:14.9422843Z",
+    "ask_price": 13879.000000000,
+    "ask_size": 0.075192020,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:15.8933403Z",
+    "time_coinapi": "2018-01-01T00:00:16.0123403Z",
+    "ask_price": 13878.990000000,
+    "ask_size": 0.002775000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:15.8971946Z",
+    "time_coinapi": "2018-01-01T00:00:16.0181946Z",
+    "ask_price": 13878.990000000,
+    "ask_size": 0.002775000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:15.9717810Z",
+    "time_coinapi": "2018-01-01T00:00:15.9717810Z",
+    "ask_price": 13878.990000000,
+    "ask_size": 0.002775000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:16.9128622Z",
+    "time_coinapi": "2018-01-01T00:00:17.0338622Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:16.9245919Z",
+    "time_coinapi": "2018-01-01T00:00:17.0435919Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:17.0135430Z",
+    "time_coinapi": "2018-01-01T00:00:17.0135430Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:17.9558430Z",
+    "time_coinapi": "2018-01-01T00:00:18.0748430Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:17.9667012Z",
+    "time_coinapi": "2018-01-01T00:00:18.0807012Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:18.0597386Z",
+    "time_coinapi": "2018-01-01T00:00:18.0597386Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13878.990000000,
+    "bid_size": 0.020000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:19.0000000Z",
+    "time_coinapi": "2018-01-01T00:00:22.1217244Z",
+    "ask_price": 13878.940000000,
+    "ask_size": 5.804998600,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:20.0350152Z",
+    "time_coinapi": "2018-01-01T00:00:20.1530152Z",
+    "ask_price": 13879.060000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:20.0448222Z",
+    "time_coinapi": "2018-01-01T00:00:20.1588222Z",
+    "ask_price": 13879.060000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:20.1103469Z",
+    "time_coinapi": "2018-01-01T00:00:20.1103469Z",
+    "ask_price": 13879.060000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:22.1130928Z",
+    "time_coinapi": "2018-01-01T00:00:22.2310928Z",
+    "ask_price": 13879.060000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:23.0000000Z",
+    "time_coinapi": "2018-01-01T00:00:28.9104908Z",
+    "ask_price": 13879.060000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:24.1912256Z",
+    "time_coinapi": "2018-01-01T00:00:24.3092256Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:24.2010741Z",
+    "time_coinapi": "2018-01-01T00:00:24.3150741Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:24.2854125Z",
+    "time_coinapi": "2018-01-01T00:00:24.2854125Z",
+    "ask_price": 13879.070000000,
+    "ask_size": 0.285234580,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:26.2693574Z",
+    "time_coinapi": "2018-01-01T00:00:26.3873574Z",
+    "ask_price": 13879.100000000,
+    "ask_size": 0.021699900,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:26.2791997Z",
+    "time_coinapi": "2018-01-01T00:00:26.3931997Z",
+    "ask_price": 13879.100000000,
+    "ask_size": 0.021699900,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:26.7178689Z",
+    "time_coinapi": "2018-01-01T00:00:26.7178689Z",
+    "ask_price": 13879.100000000,
+    "ask_size": 0.021699900,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:27.3005951Z",
+    "time_coinapi": "2018-01-01T00:00:27.4185951Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:27.3104509Z",
+    "time_coinapi": "2018-01-01T00:00:27.4244509Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:27.4187383Z",
+    "time_coinapi": "2018-01-01T00:00:27.4187383Z",
+    "ask_price": 13901.050000000,
+    "ask_size": 0.030879500,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:28.3631076Z",
+    "time_coinapi": "2018-01-01T00:00:28.4811076Z",
+    "ask_price": 13901.040000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:28.3729567Z",
+    "time_coinapi": "2018-01-01T00:00:28.4869567Z",
+    "ask_price": 13901.040000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:28.4343252Z",
+    "time_coinapi": "2018-01-01T00:00:28.4343252Z",
+    "ask_price": 13901.040000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:29.4536628Z",
+    "time_coinapi": "2018-01-01T00:00:29.4536628Z",
+    "ask_price": 13901.040000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:30.4296024Z",
+    "time_coinapi": "2018-01-01T00:00:30.5436024Z",
+    "ask_price": 13901.030000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:30.4354507Z",
+    "time_coinapi": "2018-01-01T00:00:30.5494507Z",
+    "ask_price": 13901.030000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:30.5123736Z",
+    "time_coinapi": "2018-01-01T00:00:30.5123736Z",
+    "ask_price": 13901.030000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:31.4608505Z",
+    "time_coinapi": "2018-01-01T00:00:31.5748505Z",
+    "ask_price": 13901.020000000,
+    "ask_size": 0.070000000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:31.4667087Z",
+    "time_coinapi": "2018-01-01T00:00:31.5807087Z",
+    "ask_price": 13901.020000000,
+    "ask_size": 0.070000000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:31.5279625Z",
+    "time_coinapi": "2018-01-01T00:00:31.5279625Z",
+    "ask_price": 13901.020000000,
+    "ask_size": 0.070000000,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:32.4764875Z",
+    "time_coinapi": "2018-01-01T00:00:32.5904875Z",
+    "ask_price": 13901.010000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:32.4823301Z",
+    "time_coinapi": "2018-01-01T00:00:32.5963301Z",
+    "ask_price": 13901.010000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:32.5543997Z",
+    "time_coinapi": "2018-01-01T00:00:32.5543997Z",
+    "ask_price": 13901.010000000,
+    "ask_size": 0.002221100,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:33.4979546Z",
+    "time_coinapi": "2018-01-01T00:00:33.6119546Z",
+    "ask_price": 13901.000000000,
+    "ask_size": 0.021716700,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:33.5077233Z",
+    "time_coinapi": "2018-01-01T00:00:33.6217233Z",
+    "ask_price": 13901.000000000,
+    "ask_size": 0.021716700,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:33.5921234Z",
+    "time_coinapi": "2018-01-01T00:00:33.5921234Z",
+    "ask_price": 13901.000000000,
+    "ask_size": 0.021716700,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.200000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:34.5389798Z",
+    "time_coinapi": "2018-01-01T00:00:34.6529798Z",
+    "ask_price": 13900.990000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:34.5448354Z",
+    "time_coinapi": "2018-01-01T00:00:34.6588354Z",
+    "ask_price": 13900.990000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:34.6703927Z",
+    "time_coinapi": "2018-01-01T00:00:34.6703927Z",
+    "ask_price": 13900.990000000,
+    "ask_size": 0.072221100,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:35.5760869Z",
+    "time_coinapi": "2018-01-01T00:00:35.6900869Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.343201600,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:35.5858512Z",
+    "time_coinapi": "2018-01-01T00:00:35.6998512Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.343201600,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:35.6528116Z",
+    "time_coinapi": "2018-01-01T00:00:35.6528116Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.343201600,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:37.6483535Z",
+    "time_coinapi": "2018-01-01T00:00:37.7623535Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:37.6542118Z",
+    "time_coinapi": "2018-01-01T00:00:37.7682118Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:37.7384269Z",
+    "time_coinapi": "2018-01-01T00:00:37.7384269Z",
+    "ask_price": 13873.420000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:41.7625886Z",
+    "time_coinapi": "2018-01-01T00:00:41.8775886Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.021723700,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:41.7703575Z",
+    "time_coinapi": "2018-01-01T00:00:41.8873575Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.021723700,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:41.8869608Z",
+    "time_coinapi": "2018-01-01T00:00:41.8869608Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.021723700,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:42.0000000Z",
+    "time_coinapi": "2018-01-01T00:00:46.0182335Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.021723700,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:43.8172499Z",
+    "time_coinapi": "2018-01-01T00:00:43.9342499Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.013784330,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:43.8250806Z",
+    "time_coinapi": "2018-01-01T00:00:43.9400806Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.013784330,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:43.9056764Z",
+    "time_coinapi": "2018-01-01T00:00:43.9056764Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.013784330,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:45.9344647Z",
+    "time_coinapi": "2018-01-01T00:00:46.0494647Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.013784330,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:47.9578677Z",
+    "time_coinapi": "2018-01-01T00:00:48.0748677Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:47.9657184Z",
+    "time_coinapi": "2018-01-01T00:00:48.0807184Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:48.1395247Z",
+    "time_coinapi": "2018-01-01T00:00:48.1395247Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:50.0000000Z",
+    "time_coinapi": "2018-01-01T00:00:52.5592562Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.200000000,
+    "bid_size": 0.016840410
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:51.0349883Z",
+    "time_coinapi": "2018-01-01T00:00:51.1529883Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:51.0438431Z",
+    "time_coinapi": "2018-01-01T00:00:51.1588431Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:51.1406800Z",
+    "time_coinapi": "2018-01-01T00:00:51.1406800Z",
+    "ask_price": 13873.400000000,
+    "ask_size": 0.009464950,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:53.0907193Z",
+    "time_coinapi": "2018-01-01T00:00:53.2057193Z",
+    "ask_price": 13907.260000000,
+    "ask_size": 4.551940100,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:53.0974950Z",
+    "time_coinapi": "2018-01-01T00:00:53.2154950Z",
+    "ask_price": 13907.260000000,
+    "ask_size": 4.551940100,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:53.1674110Z",
+    "time_coinapi": "2018-01-01T00:00:53.1784110Z",
+    "ask_price": 13907.260000000,
+    "ask_size": 4.551940100,
+    "bid_price": 13867.180000000,
+    "bid_size": 0.006678960
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:54.1219633Z",
+    "time_coinapi": "2018-01-01T00:00:54.2369633Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.193000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:54.1287351Z",
+    "time_coinapi": "2018-01-01T00:00:54.2467351Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.193000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:54.1905166Z",
+    "time_coinapi": "2018-01-01T00:00:54.2015166Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13867.190000000,
+    "bid_size": 0.193000000
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:55.1443632Z",
+    "time_coinapi": "2018-01-01T00:00:55.2623632Z",
+    "ask_price": 13867.140000000,
+    "ask_size": 5.043651600,
+    "bid_price": 13864.920000000,
+    "bid_size": 0.002063850
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:55.1532133Z",
+    "time_coinapi": "2018-01-01T00:00:55.2682133Z",
+    "ask_price": 13867.140000000,
+    "ask_size": 5.043651600,
+    "bid_price": 13864.920000000,
+    "bid_size": 0.002063850
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:55.3197697Z",
+    "time_coinapi": "2018-01-01T00:00:55.3307697Z",
+    "ask_price": 13867.140000000,
+    "ask_size": 5.043651600,
+    "bid_price": 13864.920000000,
+    "bid_size": 0.002063850
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:56.1913423Z",
+    "time_coinapi": "2018-01-01T00:00:56.3093423Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13841.000000000,
+    "bid_size": 0.081509710
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:56.2000905Z",
+    "time_coinapi": "2018-01-01T00:00:56.3150905Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13841.000000000,
+    "bid_size": 0.081509710
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:56.2698311Z",
+    "time_coinapi": "2018-01-01T00:00:56.2808311Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13841.000000000,
+    "bid_size": 0.081509710
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:57.0000000Z",
+    "time_coinapi": "2018-01-01T00:01:01.8574934Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13841.000000000,
+    "bid_size": 0.081509710
+  },
+  {
+    "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+    "time_exchange": "2018-01-01T00:00:59.2547460Z",
+    "time_coinapi": "2018-01-01T00:00:59.3717460Z",
+    "ask_price": 13867.210000000,
+    "ask_size": 0.329777980,
+    "bid_price": 13841.010000000,
+    "bid_size": 0.015356410
+  }
+]
