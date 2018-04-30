@@ -23,7 +23,7 @@ class Home extends React.Component {
 
   selectSymbol(s) {
     console.log('Symbol selected', s);
-    this.props.history.push('/symbol-quote');
+    this.props.history.push(`/symbol-quote/${s.symbol_id}`);
   }
 
   render() {

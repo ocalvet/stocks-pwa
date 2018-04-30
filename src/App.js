@@ -195,7 +195,7 @@ class App extends React.Component {
             <div className={classes.drawerHeader} />
             <Switch>
               <Route exact path='/' component={Home}/>
-              <Route path='/symbol-quote' component={SymbolQuote}/>
+              <Route path='/symbol-quote/:id' component={SymbolQuote}/>
             </Switch>
           </main>
         </div>
