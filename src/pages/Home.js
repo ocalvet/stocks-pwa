@@ -1,6 +1,8 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { loadSymbols } from '../actions'
+import { loadSymbols } from '../actions';
+import { Link } from 'react-router-dom'
+import Button from 'material-ui/Button';
 import Symbol from '../components/Symbol';
 import Symbols from '../providers/Symbols';
 
@@ -31,7 +33,10 @@ class Home extends React.Component {
       <div>
         <h1>Home Page</h1>
         {this.props.symbols.map(s => (<Symbol key={s.symbol_id} symbol={s} onSymbolSelected={(s) => this.selectSymbol(s)}/>))}
-        <button onClick={() => this.props.history.push('/about')}>About</button>
+        <Button component={Link} to="/about">
+          About
+        </Button>
+        {/* <button onClick={() => this.props.history.push('/about')}>About</button> */}
       </div>
     )
   }

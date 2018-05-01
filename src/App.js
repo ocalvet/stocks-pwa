@@ -16,6 +16,7 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import Home from './pages/Home';
 import SymbolQuote from './pages/SymbolQuote';
+import About from './pages/About';
 
 const drawerWidth = 240;
 
@@ -196,6 +197,7 @@ class App extends React.Component {
             <Switch>
               <Route exact path='/' component={Home}/>
               <Route path='/symbol-quote/:id' component={SymbolQuote}/>
+              <Route path='/about' component={About}/>
             </Switch>
           </main>
         </div>
