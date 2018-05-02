@@ -183,7 +183,7 @@ class App extends React.Component {
                 <MenuIcon />
               </IconButton>
               <Typography variant="title" color="inherit" noWrap>
-                Offline Viewer
+                Cybercurrency Explorer
               </Typography>
             </Toolbar>
           </AppBar>
