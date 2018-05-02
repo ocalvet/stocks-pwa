@@ -32,11 +32,11 @@ class Home extends React.Component {
     return (
       <div>
         <h1>Home Page</h1>
-        {this.props.symbols.map(s => (<Symbol key={s.symbol_id} symbol={s} onSymbolSelected={(s) => this.selectSymbol(s)}/>))}
-        <Button component={Link} to="/about">
-          About
-        </Button>
-        {/* <button onClick={() => this.props.history.push('/about')}>About</button> */}
+        {this.props.symbols.map(s => (
+          <Symbol key={s.symbol_id} 
+                  symbol={s} 
+                  onSymbolSelected={(s) => this.selectSymbol(s)}/>
+        ))}
       </div>
     )
   }
