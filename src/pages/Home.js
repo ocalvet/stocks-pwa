@@ -31,7 +31,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <h1>Home Page</h1>
+        <h1>Home</h1>
         {this.props.symbols.map(s => (
           <Symbol key={s.symbol_id} 
                   symbol={s} 

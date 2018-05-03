@@ -7,7 +7,7 @@ class About extends React.Component {
 
   render() {
     return (
-      <h1>About</h1>
+      <p>This app is made to be use in conjunction with coinapi.io to read cyber currency information</p>
     );
   }
 }
