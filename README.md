@@ -5,8 +5,9 @@ This app helps gather market information in many of the cyber currency currently
 ## Getting Started
 
 1. Clone the repo
-2. run `$ yarn`
-3. then `$yarn start`
+2. Run `$ yarn`
+3. Get an api key [coinapi.io](https://coinapi.io)
+4. Run `$yarn start` 
 
 ### Prerequisites
 
