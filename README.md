@@ -1,3 +1,3 @@
 # STOCKS API
 
-Get api from coinapi.io
+Get api key from (coinapi.io)[https://coinapi.io]
